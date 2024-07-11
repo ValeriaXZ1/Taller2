@@ -1,0 +1,18 @@
+.Titulo2{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+    font-size: 50px;
+    font-family:cursive;
+}
+.text-muted{
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: cursive;
+}
+.redes-sociales {
+    text-align: center;
+    margin: 0 10px;
+    max-height: 5%;
+    min-width: 5%;
+}

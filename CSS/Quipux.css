@@ -1,0 +1,44 @@
+
+/* Estilos para la cabecera */
+
+.header {
+    background: #FFD700;
+    color: black;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    font-family: cursive;
+}
+
+/* Estilos para el título principal */
+.Titilo {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+/* Estilos para las imágenes */
+.img-small {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para los párrafos */
+.container p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #555;
+    text-align: justify;
+    margin-bottom: 20px;
+}
